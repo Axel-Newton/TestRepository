@@ -6,6 +6,10 @@ class Program
     {
         Console.WriteLine("Hello, Worlddddd!");
         Console.ReadKey();
-        Console.WriteLine("Testttttttt");
+        Console.WriteLine("Testttttttt222");
+
+        int x = 10; 
+        int y = 20;
+        Console.WriteLine(x + y);
     }
 }
